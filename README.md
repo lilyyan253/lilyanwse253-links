@@ -1,1 +1,2 @@
-pinterest.com youtube.com classroom.google.com
+https://google.com
+https://pinterest.com
