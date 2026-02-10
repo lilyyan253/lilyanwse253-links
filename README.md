@@ -1,3 +1,1 @@
-pinterest.com
-youtube.com
-classroom.google.com
+pinterest.com youtube.com classroom.google.com
